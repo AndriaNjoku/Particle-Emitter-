@@ -6,10 +6,7 @@ This is a **particle emitter** application built with Kotlin and Android Jetpack
 
 Check out this animated demo:
 
-[![Particle Emitter Demo](assets/particle-emitter-demo.gif)](https://youtu.be/your-video-link)
-
-![Uploading particleemitterdemo-ezgif.com-video-to-gif-converter.gif…]()
-
+![particleemitterdemo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7c229d03-26c9-4812-957a-d9ac3878c5dd)
 
 ## Features
 
